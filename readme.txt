@@ -12,4 +12,5 @@ test3
 test4
 test5
 Creating a new branch is quick
-new branch test 1
+new branch test 1...
+new branch test 2...
